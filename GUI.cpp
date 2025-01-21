@@ -12,7 +12,7 @@ bool is2DMode = false;
 float lightPos[] = {10.0f, 10.0f, 10.0f, 1.0f};
 int windowWidth = 800, windowHeight = 600;
 
-void init3D();
+void init4D();
 void display();
 void iceCream();
 void object2D();
